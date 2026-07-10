@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="EasyQ2C">
+  <title>EasyQ2C</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&amp;display=swap');
+      .wordmark {
+        font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+        font-weight: 700;
+        font-size: 96px;
+        letter-spacing: -0.02em;
+      }
+      .light { fill: #ffffff; }
+      .blue { fill: #6BA3FF; }
+    </style>
+  </defs>
+  <text class="wordmark" x="0" y="92">
+    <tspan class="light">Easy</tspan><tspan class="blue">Q2C</tspan>
+  </text>
+</svg>

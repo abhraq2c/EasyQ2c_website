@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="EasyQ2C - Making Quote to Cash Easy">
+  <title>EasyQ2C - Making Quote to Cash Easy</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&amp;display=swap');
+      .wordmark {
+        font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+        font-weight: 700;
+        font-size: 96px;
+        letter-spacing: -0.02em;
+      }
+      .tagline {
+        font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
+        font-weight: 300;
+        font-size: 28px;
+        letter-spacing: 0.01em;
+      }
+      .navy { fill: #2B365C; }
+      .blue { fill: #3B86F4; }
+    </style>
+  </defs>
+  <text class="wordmark" x="360" y="92" text-anchor="middle">
+    <tspan class="navy">Easy</tspan><tspan class="blue">Q2C</tspan>
+  </text>
+  <text class="tagline navy" x="360" y="158" text-anchor="middle">Making Quote to Cash Easy</text>
+</svg>

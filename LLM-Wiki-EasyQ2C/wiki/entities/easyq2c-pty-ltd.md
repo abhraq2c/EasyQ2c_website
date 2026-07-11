@@ -41,7 +41,7 @@ EasyQ2C positions itself against general software agencies through specialized *
 ### Legal and contact
 
 - **Registered name:** EasyQ2C Pty Ltd[^home]
-- **Address:** Unit 2 10 Bando Road, Girraween, NSW 2145, Australia[^home]
+- **Address:** Unit 132, 15A Mary Street, Auburn, NSW 2144, Australia (curator-provided 2026-07-11; supersedes the earlier Girraween address on the homepage clip)
 - **Email:** support@easyq2c.com[^home]
 - **Website:** www.easyq2c.com[^home]
 
@@ -49,7 +49,7 @@ EasyQ2C positions itself against general software agencies through specialized *
 
 - Offers: [Enterprise Software Solutions](./enterprise-software-solutions.md), [Mobile Product Development](./mobile-product-development.md), [Custom Product Engineering](./custom-product-engineering.md), [API & Ecosystem Integration](./api-ecosystem-integration.md)
 - Products include: [Debt Collection Systems](./debt-collection-systems.md), [Spend Tracker suite](./spend-tracker-suite.md), [SubsSpend](./subsspend.md)
-- Located at: [Girraween office](./girraween-office.md)
+- Located at: [Auburn office](./auburn-office.md)
 - Brand assets: [EasyQ2C wordmark](./logo-easyq2c-wordmark.md), [EasyQ2C wordmark with caption](./logo-easyq2c-with-caption.md)
 - Related concepts: [Quote-to-Cash](../concepts/quote-to-cash.md), [Product-first organization](../concepts/product-first-organization.md)
 

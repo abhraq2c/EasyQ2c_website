@@ -598,8 +598,9 @@ address { font-style: normal; }
   flex-shrink: 0;
 }
 .process__visual img {
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg);
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
 }
 
 /* Contact */

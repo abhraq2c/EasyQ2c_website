@@ -43,3 +43,12 @@ Allowed operations:
 - Updated brand-asset entity pages and `wiki/index.md` raw assets table.
 - Files added under [`raw/logo/`](../raw/logo/): 7 new files (2 SVG, 5 PNG).
 - Files touched: `wiki/entities/logo-easyq2c-wordmark.md`, `wiki/entities/logo-easyq2c-with-caption.md`, `wiki/index.md`, `wiki/log.md`.
+
+## [2026-07-11] meta | Address change → Auburn (supersedes Girraween)
+
+- Curator-provided update: EasyQ2C Pty Ltd address changed to Unit 132, 15A Mary Street, Auburn NSW 2144 (no web source; supersedes the homepage's Girraween address).
+- Created [`wiki/entities/auburn-office.md`](./entities/auburn-office.md); archived old page to [`wiki/_archive/girraween-office.md`](./_archive/girraween-office.md) with `status: superseded`.
+- Updated address + `Located at` link in [`easyq2c-pty-ltd.md`](./entities/easyq2c-pty-ltd.md), address in [`overview.md`](./overview.md), catalog line in [`index.md`](./index.md), and `location` example in `AGENTS.md`.
+- Updated the website contact block in `index.html`.
+- Note: `raw/Home - Welcome to EasyQ2C.md` left unchanged (immutable source; still shows original Girraween address).
+- Files touched: `index.html`, `AGENTS.md`, `wiki/entities/auburn-office.md`, `wiki/_archive/girraween-office.md`, `wiki/entities/easyq2c-pty-ltd.md`, `wiki/overview.md`, `wiki/index.md`, `wiki/log.md`.

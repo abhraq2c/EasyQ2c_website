@@ -23,7 +23,7 @@ Authoritative for navigation and discovery; updated on every ingest, query-that-
 
 ### Company & contact
 - [`wiki/entities/easyq2c-pty-ltd.md`](./entities/easyq2c-pty-ltd.md) — Australian IT software & services company; product-first Q2C focus.
-- [`wiki/entities/girraween-office.md`](./entities/girraween-office.md) — Published address: Unit 2 10 Bando Road, Girraween NSW 2145.
+- [`wiki/entities/auburn-office.md`](./entities/auburn-office.md) — Current published address: Unit 132, 15A Mary Street, Auburn NSW 2144. (supersedes Girraween)
 - [`wiki/entities/support-email.md`](./entities/support-email.md) — Primary contact: support@easyq2c.com.
 
 ### Products

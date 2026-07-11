@@ -14,7 +14,7 @@ tags: [easyq2c, overview]
 
 ## What we know about EasyQ2C
 
-**EasyQ2C Pty Ltd** is an Australian IT software and services company (Girraween, NSW) specializing in **Quote-to-Cash (Q2C)** workflows.[^home] It evolved from software consultancy into a **product-first organization** targeting untracked revenue leakage and slow collection cycles, with a mission to ensure no money is left behind.[^home]
+**EasyQ2C Pty Ltd** is an Australian IT software and services company (Auburn, NSW) specializing in **Quote-to-Cash (Q2C)** workflows.[^home] It evolved from software consultancy into a **product-first organization** targeting untracked revenue leakage and slow collection cycles, with a mission to ensure no money is left behind.[^home]
 
 ### Brand
 
@@ -47,7 +47,7 @@ tags: [easyq2c, overview]
 
 - **Email:** support@easyq2c.com[^home]
 - **Web:** www.easyq2c.com[^home]
-- **Address:** Unit 2 10 Bando Road, Girraween NSW 2145[^home]
+- **Address:** Unit 132, 15A Mary Street, Auburn NSW 2144 (curator-provided 2026-07-11; supersedes the earlier Girraween address)
 - **Phone:** not sourced (redacted in clip)
 
 ## Open questions

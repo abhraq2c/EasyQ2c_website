@@ -25,7 +25,7 @@ Use these `Properties.Type` values consistently:
 | `company` | EasyQ2C Pty Ltd |
 | `product` | Debt Collection Systems, Spend Tracker suite, SubsSpend |
 | `service` | Enterprise Software Solutions, Mobile Product Development, Custom Product Engineering, API & Ecosystem Integration |
-| `location` | Girraween NSW office |
+| `location` | Auburn NSW office |
 | `contact-channel` | support@easyq2c.com, phone, website |
 | `brand-asset` | logos, favicons, hero diagrams, stock imagery used on the site |
 | `team-member` | Public-facing people only (when sourced) |
